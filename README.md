@@ -5,4 +5,4 @@ byr
 ## table of contents
 - nstallation
 - usage
-![image alt]((https://github.com/Bennyimmanuel/samplerepo/blob/000891a50414a9fce28d9e29067fe65811a47b9a/IMG_20221112_144531.jpg))
+https://github.com/Bennyimmanuel/samplerepo/issues/1#issue-2602923181
