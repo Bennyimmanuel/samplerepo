@@ -2,5 +2,5 @@
 ## hi
 ### hello
 ## table of contents
--[Installation]
--[usage]
+- [Installation]
+- [usage]
