@@ -1,3 +1,6 @@
 # Day1
 ## hi
-###hello
+### hello
+## table of contents
+- [Installation](#installation)
+-[usage](#usage)
